@@ -1,6 +1,12 @@
 body{
     font-family: "Arial";
     font-size: 15px;
-    color: blueviolet;
+    color: black;
     text-align: center;
+}
+
+.container{
+    width: 50%;
+    padding: 2em;
+    border: 1px solid;
 }
