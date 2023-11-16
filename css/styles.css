@@ -24,3 +24,11 @@ span{
     padding: 2em;
     border: 1px solid;
 }
+
+#footer {
+    text-align: center;
+    background-color: grey;
+    color: white;
+    padding: 0.5em;
+
+}
