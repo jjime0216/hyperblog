@@ -5,7 +5,7 @@ un blog para el curso de git y github de Platzi
 
 >Julian
 
-##Temas que se trabajaron en el curso
+## Temas que se trabajaron en el curso
 
 - Instalacion de Git
 - Configuracion de Git en tu computadora
@@ -13,7 +13,7 @@ un blog para el curso de git y github de Platzi
 - Github y como crear tu cuenta
 - Como hacer un merge entre branches
 
-###Este es solo el inicio de un gran recorrido por todo lo que veras
+### Este es solo el inicio de un gran recorrido por todo lo que veras
 
 >No olvides seguirme en mis redes sociales.
 
